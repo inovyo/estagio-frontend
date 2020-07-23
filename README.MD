@@ -21,7 +21,7 @@ Um pouco de:
 
 # Instruções
 - No arquivo `index.html` você encontrará a biblioteca/framework já carregados e comentários indicando onde deve trabalhar;
-- No arquivo `app.js` consta a lista de endpoints com algumas instruções de como devem ser utilizado;
+- No arquivo `app.js` consta a lista de endpoints com algumas instruções de como devem ser utilizados;
 - Não inclua nenhum outro arquivo, nem utilize bibliotecas externas via CDN, utilize apenas o que já está nos arquivos de modelo (`index.html`, `style.css` e `app.js`);
 
 # Entrega
@@ -38,7 +38,7 @@ Tudo bem, você pode baixar os arquivos deste repositório e nos enviar o trabal
 
 # Exemplo
 
-Use sua criatividade, o exemplo abaixo é apenas para referência, você pode utilizar outros componentes do Bootstrap, como listas, botões, popovers, etc.
+Use sua criatividade, o exemplo abaixo é apenas para referência, você pode utilizar outros componentes do Bootstrap (como listas, botões, popovers, etc.), pode criar um gráfico de barras, ou invés de linha...
 
 ![Consulta com retorno de valor do modelo 0KM")](img/comportamento1.gif?raw=true "Consulta com retorno do valor do modelo 0KM")
 
